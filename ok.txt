@@ -1,4 +1,3 @@
-.edu.cn
 abc.edu.cn
 ahau.edu.cn
 ahmu.edu.cn
